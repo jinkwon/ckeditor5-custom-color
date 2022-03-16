@@ -1,5 +1,5 @@
 import Plugin from '@ckeditor/ckeditor5-core/src/plugin';
-import Font from "@ckeditor/ckeditor5-font/src/font";
+import Font from '@ckeditor/ckeditor5-font/src/font';
 
 export const FONT_COLORS = {
   '0': {
