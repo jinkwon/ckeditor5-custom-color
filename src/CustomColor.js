@@ -30,7 +30,7 @@ function getClassColorName(attr) {
   return;
 }
 
-function initInlineStyle() {
+export function initInlineStyle() {
   const inlineStyles = [];
 
   let i = 0;
